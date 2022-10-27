@@ -1,0 +1,2 @@
+language = "python3"
+run = "python3 generate.py ab 6 | python3 find.py "b*(ab*ab*)*" - | wc -l"
